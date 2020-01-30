@@ -1,0 +1,190 @@
+[
+{
+	"uri": "http://tacjin.github.io/en/showcase/hugo/hugo-theme-zzo/",
+	"title": "Hugo Zzo Theme",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Make a blog with hugo zzo theme!",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/showcase/hugo/hugo-theme-zdoc/",
+	"title": "Hugo zDoc Theme",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Make a documentation with hugo zdoc theme!",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/",
+	"title": "",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/second/",
+	"title": "Second",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/post/first/",
+	"title": "First",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/post/",
+	"title": "Posts",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/showcase/hugo/",
+	"title": "Hugo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Hugo theme collection",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/showcase/",
+	"title": "Showcase overview",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "My portfolio, repos, works overview page",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/gallery/cartoon/",
+	"title": "Cartoon",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "cartoon gallery",
+	"content": "Sample images from Pixabay\n"
+},
+{
+	"uri": "http://tacjin.github.io/en/gallery/",
+	"title": "Galleries",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/gallery/photo/",
+	"title": "Photo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "photo gallery",
+	"content": "Sample images from Pixabay\n"
+},
+{
+	"uri": "http://tacjin.github.io/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/pt/dir/fourth/",
+	"title": "Fourth",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "My fourth presentation",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/pt/",
+	"title": "Presentations",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Presentation list with reveal.js",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/pt/third/",
+	"title": "Third",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "My third presentation",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/pt/second/",
+	"title": "Second",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "My second presentation",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/pt/first/",
+	"title": "First",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "My first presentation",
+	"content": ""
+},
+{
+	"uri": "http://tacjin.github.io/en/archive/",
+	"title": "Archive",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Archive Page",
+	"content": "archive page\n"
+},
+{
+	"uri": "http://tacjin.github.io/en/about/",
+	"title": "About",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Hugo, the world’s fastest framework for building websites",
+	"content": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n"
+}]

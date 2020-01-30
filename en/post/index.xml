@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Zzo Theme</title>
+    <link>http://tacjin.github.io/en/post/</link>
+    <description>Recent content in Posts on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 19:36:56 +0800</lastBuildDate>
+    
+        <atom:link href="http://tacjin.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>First</title>
+        <link>http://tacjin.github.io/en/post/first/</link>
+        <pubDate>Thu, 30 Jan 2020 19:36:56 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/post/first/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

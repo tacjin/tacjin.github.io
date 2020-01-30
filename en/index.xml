@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Zzo Theme</title>
+    <link>http://tacjin.github.io/en/</link>
+    <description>Recent content on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 19:40:24 +0800</lastBuildDate>
+    
+        <atom:link href="http://tacjin.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Hugo Zzo Theme</title>
+        <link>http://tacjin.github.io/en/showcase/hugo/hugo-theme-zzo/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/showcase/hugo/hugo-theme-zzo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Hugo zDoc Theme</title>
+        <link>http://tacjin.github.io/en/showcase/hugo/hugo-theme-zdoc/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/showcase/hugo/hugo-theme-zdoc/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Second</title>
+        <link>http://tacjin.github.io/en/second/</link>
+        <pubDate>Thu, 30 Jan 2020 19:40:24 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/second/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>First</title>
+        <link>http://tacjin.github.io/en/post/first/</link>
+        <pubDate>Thu, 30 Jan 2020 19:36:56 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/post/first/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>http://tacjin.github.io/en/gallery/cartoon/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/gallery/cartoon/</guid>
+        <description>Sample images from Pixabay</description>
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>http://tacjin.github.io/en/gallery/photo/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/gallery/photo/</guid>
+        <description>Sample images from Pixabay</description>
+      </item>
+      
+      <item>
+        <title>Fourth</title>
+        <link>http://tacjin.github.io/en/pt/dir/fourth/</link>
+        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/pt/dir/fourth/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Third</title>
+        <link>http://tacjin.github.io/en/pt/third/</link>
+        <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/pt/third/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Second</title>
+        <link>http://tacjin.github.io/en/pt/second/</link>
+        <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/pt/second/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>First</title>
+        <link>http://tacjin.github.io/en/pt/first/</link>
+        <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/pt/first/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>About</title>
+        <link>http://tacjin.github.io/en/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>http://tacjin.github.io/en/about/</guid>
+        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
